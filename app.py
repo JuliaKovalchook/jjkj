@@ -17,7 +17,7 @@ from flask_login import login_user, login_required, current_user, logout_user, L
 app = Flask(__name__)
 app.secret_key = 'development key'
 
-app.config["SQLALCHEMY_DATABASE_URI"] = 'postgres://pfrpsguyrukwye:a6599480a3355fee968234b49b7f9df2db2cfcece606ac67e92dcecc47e98d09@ec2-174-129-254-223.compute-1.amazonaws.com:5432/d22pm2ppi6p3f8'
+app.config["SQLALCHEMY_DATABASE_URI"] = 'postgres://anmamradhtchhx:73fba2960abb329ee4ad99cbb925c3406ee2787d42aa580cce539e8a9172df56@ec2-174-129-254-223.compute-1.amazonaws.com:5432/d94pl0ivlmq3pn'
 app.config["SQLALCHEMY_TRACK_MODIFICATIONS"] = False
 
 

@@ -1,8 +1,8 @@
-username = 'pfrpsguyrukwye'
-password = 'a6599480a3355fee968234b49b7f9df2db2cfcece606ac67e92dcecc47e98d09'
+username = 'anmamradhtchhx'
+password = '73fba2960abb329ee4ad99cbb925c3406ee2787d42aa580cce539e8a9172df56'
 hostname = 'ec2-174-129-254-223.compute-1.amazonaws.com'
 port = 5432
-database_name = 'd22pm2ppi6p3f8'
+database_name = 'd94pl0ivlmq3pn'
 
 # username = 'postgres'
 # password = 'Vladik99'
